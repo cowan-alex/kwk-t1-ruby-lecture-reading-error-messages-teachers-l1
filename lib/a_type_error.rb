@@ -1,3 +1,3 @@
-1 + 1 do
+1 + 1
 
 puts "is the loneliest number"
